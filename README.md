@@ -3,7 +3,6 @@
 - Senior at **Ashoka University**, studying **Computer Science and Mathematics**  
 - Full-stack developer with an interest in premature-optimization, system design (side interest in ML/AI as well)  
 - Currently TAing for Design Practices in CS - a course aimed to introduce students to software engineering practices through projects. 
-- Working on my final year capstone project - analyzing structural inefficiencies in India's electricity market.
 - Love playing/watching basketball.
 
 ---
