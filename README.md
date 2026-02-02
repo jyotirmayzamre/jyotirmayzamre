@@ -2,7 +2,7 @@
 
 - Senior at **Ashoka University**, studying **Computer Science and Mathematics**  
 - Full-stack developer with an interest in premature-optimization, system design (side interest in ML/AI as well)  
-- Currently TAing for Design Practices in CS - a course aimed to introduce students to software engineering practices through projects. 
+- Currently TAing for Programming Languages & Translation - Ashoka's compilers course
 - Love playing/watching basketball.
 
 ---
